@@ -23,15 +23,21 @@ Present:
 
 У меня 3 экрана
 
+
 <img width="407" height="886" alt="image" src="https://github.com/user-attachments/assets/0d77c00d-6ee8-4de6-bd0b-a1df9c6371a1" />
 Это экран "Начало"
 На нем есть кнопка начать для перехода на экран всех заметок.
 
+
+
 <img width="406" height="882" alt="image" src="https://github.com/user-attachments/assets/0d1765f1-66a4-4bf8-b965-76d5dde3eca0" />
 Это экран со всеми заметками (ГЛАВНЫЙ). На нем есть 2 кнопки: обратная стрелочка - перейти обратно и плюс - добавить заметку. При нажатии на плюс открывается следующее и последнее окно.
 
-img width="403" height="885" alt="image" src="https://github.com/user-attachments/assets/03adcf9b-f533-43c9-ba13-0cf12ccc9875" />
+
+
+<img width="403" height="885" alt="image" src="https://github.com/user-attachments/assets/03adcf9b-f533-43c9-ba13-0cf12ccc9875" />
 Это экран для добавления заметок. Есть кнопка для перехода на прошлый экран. Также есть кнопка с сохранением с последующим переходом на главный экран.
+
 
 Элементы интерфейса:
 Кнопки - эллипсоиды, с интуитивно понятными символами.
